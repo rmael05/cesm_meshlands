@@ -8,7 +8,7 @@ Meshlands correspond to an exotic and idealized configuration in which the plane
 The following figure shows an example of Meshlands with ocean cells being highlighted by blue dots.
 
 <div align="center">
-  <img src="cesm_meshlands/Figures/mesh16.png" width="600">
+  <img src="Figures/mesh16.png" width="600">
   <p><em>Figure 1 : Meshlands example (Mesh16)</em></p>
 </div>
 
